@@ -1,3 +1,5 @@
+// insertiing a integer
+
 class relation_integer {
     public static void main(String[] args) {
         int age = 30; // integer
